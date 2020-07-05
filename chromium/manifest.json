@@ -12,7 +12,7 @@
           }
       },
     "chrome_url_overrides" : {
-        "newtab": "myPage.html"
+        "newtab": "popup.html"        
     },
     "manifest_version": 2
   }
